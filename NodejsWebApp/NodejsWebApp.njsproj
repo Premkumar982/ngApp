@@ -26936,6 +26936,12 @@
     <Content Include="myAngularApp2\src\app\excercise32\excercise32.component.html" />
     <Content Include="myAngularApp2\src\app\Excercise40\excercise40.component.css" />
     <Content Include="myAngularApp2\src\app\Excercise40\excercise40.component.html" />
+    <Content Include="myAngularApp2\src\app\excercise80\evencontrol\evencontrol.component.css" />
+    <Content Include="myAngularApp2\src\app\excercise80\evencontrol\evencontrol.component.html" />
+    <Content Include="myAngularApp2\src\app\excercise80\gamecontrol\gamecontrol.component.css" />
+    <Content Include="myAngularApp2\src\app\excercise80\gamecontrol\gamecontrol.component.html" />
+    <Content Include="myAngularApp2\src\app\excercise80\oddcontrol\oddcontrol.component.css" />
+    <Content Include="myAngularApp2\src\app\excercise80\oddcontrol\oddcontrol.component.html" />
     <Content Include="myAngularApp2\src\app\servers\servers.component.css" />
     <Content Include="myAngularApp2\src\app\servers\servers.component.html" />
     <Content Include="myAngularApp2\src\app\Server\Server.Component.css" />
@@ -30864,6 +30870,10 @@
     <Folder Include="myAngularApp2\src\app\excercise32\" />
     <Folder Include="myAngularApp2\src\app\Excercise40\" />
     <Folder Include="myAngularApp2\src\app\App-Content\" />
+    <Folder Include="myAngularApp2\src\app\excercise80\" />
+    <Folder Include="myAngularApp2\src\app\excercise80\evencontrol\" />
+    <Folder Include="myAngularApp2\src\app\excercise80\gamecontrol\" />
+    <Folder Include="myAngularApp2\src\app\excercise80\oddcontrol\" />
     <Folder Include="myAngularApp2\src\app\servers\" />
     <Folder Include="myAngularApp2\src\app\Server\" />
     <Folder Include="myAngularApp2\src\app\App-Content\shopping-list\" />
@@ -35017,6 +35027,12 @@
     <TypeScriptCompile Include="myAngularApp2\src\app\app.module.ts" />
     <TypeScriptCompile Include="myAngularApp2\src\app\excercise32\excercise32.component.ts" />
     <TypeScriptCompile Include="myAngularApp2\src\app\Excercise40\excercise40.component.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\evencontrol\evencontrol.component.spec.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\evencontrol\evencontrol.component.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\gamecontrol\gamecontrol.component.spec.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\gamecontrol\gamecontrol.component.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\oddcontrol\oddcontrol.component.spec.ts" />
+    <TypeScriptCompile Include="myAngularApp2\src\app\excercise80\oddcontrol\oddcontrol.component.ts" />
     <TypeScriptCompile Include="myAngularApp2\src\app\servers\servers.component.spec.ts" />
     <TypeScriptCompile Include="myAngularApp2\src\app\servers\servers.component.ts" />
     <TypeScriptCompile Include="myAngularApp2\src\app\Server\Server.Component.ts" />
